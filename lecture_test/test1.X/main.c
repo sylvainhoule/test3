@@ -6,6 +6,7 @@
  * Author           Date            Version
  * Serge Hould      12 June 2017    1.0.0 First version
  * Serge Hould      12 June 2017    1.0.1 Add blinking
+ * Serge Hould      12 Jube 2017    1.0.2 Add config
  */
 
 #include <stdio.h>
@@ -15,7 +16,7 @@
  * 
  */
 void main(void) {
-
+    // Config();
     while(1){
         // Blink();
     }
